@@ -1,0 +1,12 @@
+{
+  "name": "element-queries",
+  "repo": "bdo-labs/directive-element-queries",
+  "version": "0.0.1",
+  "description": "Tiny element-query like implementation",
+  "author": "Henrik Kjelsberg <henrik.kjelsberg@bdo.no>",
+  "main": "lib/index.js",
+  "scripts": ["lib/index.js"],
+  "dependencies": {
+    "lodash/lodash": "master"
+  }
+}
